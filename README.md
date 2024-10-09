@@ -1,4 +1,4 @@
-# Multi-Keyword Audio Recognition System
+# Few-Shot Language Agnostic Keyword Spotting (FSLAKWS) 
 
 This project is designed to detect the presence of multiple specific keywords within audio files using advanced spectrogram analysis and Siamese neural networks. The system preprocesses audio data, removes noise, and utilizes few-shot learning for efficient training with limited examples.
 
